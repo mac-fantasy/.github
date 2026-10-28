@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Mac Fantasy</title>
+  <desc id="description">Small tools. A better Mac. Open source native macOS utilities for clipboard history, connected devices, system monitoring, and account usage.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10282E"/>
+      <stop offset=".5" stop-color="#10222B"/>
+      <stop offset="1" stop-color="#202437"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="70" y1="62" x2="105" y2="97" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A8F0D7"/>
+      <stop offset="1" stop-color="#8CB7F8"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="817" y1="60" x2="1195" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#88CDBA" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#B5A7EA" stop-opacity=".16"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#background)"/>
+  <path d="M744 0V360M0 307H1280" stroke="#C0E9E6" stroke-opacity=".06"/>
+  <circle cx="1202" cy="-72" r="273" stroke="#AEEDDC" stroke-opacity=".05" stroke-width="66"/>
+  <circle cx="1278" cy="382" r="186" stroke="#BBA9F0" stroke-opacity=".05" stroke-width="40"/>
+
+  <rect x="64" y="57" width="42" height="42" rx="12" fill="url(#accent)"/>
+  <path d="M75 85V73L82 80L89 73V85M95 73V85M92 76H98" stroke="#15343B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="122" y="83" fill="#A7C8CA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600" letter-spacing="2.5">NATIVE macOS UTILITIES</text>
+
+  <text x="61" y="176" fill="#F0F7F6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="68" font-weight="700" letter-spacing="-2.6">Mac Fantasy</text>
+  <text x="65" y="222" fill="#B3D1D0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="25" letter-spacing="-.3">Small tools. A better Mac.</text>
+  <rect x="65" y="256" width="112" height="25" rx="12.5" fill="#A8F0D7" fill-opacity=".09" stroke="#A8F0D7" stroke-opacity=".18"/>
+  <circle cx="79" cy="268.5" r="3" fill="#A8F0D7"/>
+  <text x="90" y="272.5" fill="#B6E6D8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="600" letter-spacing="1">OPEN SOURCE</text>
+  <text x="193" y="273" fill="#7F9EA4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12">Built for everyday use.</text>
+
+  <rect x="797" y="59" width="425" height="230" rx="18" fill="#142C36" stroke="url(#edge)"/>
+  <path d="M798 103H1221" stroke="#A3CAD0" stroke-opacity=".12"/>
+  <circle cx="819" cy="82" r="4" fill="#819DA3" fill-opacity=".5"/>
+  <circle cx="834" cy="82" r="4" fill="#819DA3" fill-opacity=".3"/>
+  <circle cx="849" cy="82" r="4" fill="#819DA3" fill-opacity=".2"/>
+  <text x="1090" y="86" fill="#8AA9B0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" letter-spacing="1.5">YOUR MENU BAR</text>
+
+  <rect x="826" y="132" width="75" height="75" rx="19" fill="#A8EBD7" fill-opacity=".1"/>
+  <rect x="849" y="154" width="29" height="33" rx="5" stroke="#A8EBD7" stroke-width="2.5"/>
+  <rect x="857" y="150" width="13" height="8" rx="3" fill="#163F43" stroke="#A8EBD7" stroke-width="2.5"/>
+  <path d="M857 168H870M857 176H867" stroke="#A8EBD7" stroke-width="2.5" stroke-linecap="round"/>
+
+  <rect x="924" y="132" width="75" height="75" rx="19" fill="#93C5F5" fill-opacity=".1"/>
+  <path d="M961 185V153M957 157L961 152L965 157M961 177L949 166V160M961 171L973 162V157" stroke="#A1CEF8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="961" cy="185" r="3.5" fill="#A1CEF8"/>
+  <circle cx="949" cy="158" r="3" stroke="#A1CEF8" stroke-width="2"/>
+  <rect x="970" y="151" width="6" height="6" rx="1" fill="#A1CEF8"/>
+
+  <rect x="1022" y="132" width="75" height="75" rx="19" fill="#C0AEF5" fill-opacity=".1"/>
+  <rect x="1041" y="171" width="7" height="15" rx="2" fill="#9CBFF9"/>
+  <rect x="1055" y="155" width="7" height="31" rx="2" fill="#C0AEF5"/>
+  <rect x="1069" y="164" width="7" height="22" rx="2" fill="#E2C493"/>
+
+  <rect x="1120" y="132" width="75" height="75" rx="19" fill="#8EDFD0" fill-opacity=".1"/>
+  <circle cx="1157.5" cy="169.5" r="18" stroke="#315461" stroke-width="5"/>
+  <path d="M1157.5 151.5A18 18 0 1 1 1140 173.7" stroke="#8EDFD0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M1152 170L1156 174L1163 165" stroke="#C3F4E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g fill="#93AFB7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9" font-weight="600" letter-spacing="1.2" text-anchor="middle">
+    <text x="863.5" y="234">CLIPBOARD</text>
+    <text x="961.5" y="234">DEVICES</text>
+    <text x="1059.5" y="234">SYSTEM</text>
+    <text x="1157.5" y="234">USAGE</text>
+  </g>
+  <path d="M977 265H1042" stroke="#8CA9B2" stroke-opacity=".25" stroke-width="3" stroke-linecap="round"/>
+  <text x="65" y="336" fill="#6C8D96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500" letter-spacing="2">SWIFT / APPKIT / SWIFTUI</text>
+  <text x="1218" y="336" fill="#6C8D96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500" text-anchor="end" letter-spacing="2">MAC-FANTASY</text>
+</svg>
